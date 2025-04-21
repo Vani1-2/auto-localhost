@@ -19,7 +19,7 @@ This contains Python scripts for automatically starting a local HTTP server and 
 
 ## Requirements
 
-- Python(Python3 preferably)
+- Python 3
 - `localtunnel` (can be installed with `npm install -g localtunnel`)
 - GNOME Terminal
 - Unix-based OS (e.g., Linux)
