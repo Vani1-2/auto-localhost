@@ -4,7 +4,7 @@ import os
 import signal
 
 print("Starting webpage on http://localhost:8000")
-print("Opening LocalTunnel at https://vani-lmao.loca.lt ...")
+print("Opening LocalTunnel at https://sitename.loca.lt ...")
 
 lt_process = subprocess.Popen(
     ['gnome-terminal', '--', 'bash', '-c', 'lt --port 8000 --subdomain vani-lmao']
