@@ -5,7 +5,7 @@ import signal
 
 def start_lt():
     return subprocess.Popen(
-        ['gnome-terminal', '--', 'bash', '-c', 'lt --port 8000 --subdomain vani-lmao']
+        ['gnome-terminal', '--', 'bash', '-c', 'lt --port 8000 --subdomain testsite']
     )
 
 def start_http_server():
