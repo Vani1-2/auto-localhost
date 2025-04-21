@@ -1,3 +1,4 @@
+![Screenshot from 2025-04-21 19-46-56](https://github.com/user-attachments/assets/5b772ab6-bb14-4856-8715-058028e532ca)
 # LocalTunnel Auto-Serve Scripts
 
 This contains Python scripts for automatically starting a local HTTP server and exposing it to the internet using [LocalTunnel](https://theboroer.github.io/localtunnel-www/).
@@ -23,13 +24,26 @@ This contains Python scripts for automatically starting a local HTTP server and 
 - GNOME Terminal
 - Unix-based OS (e.g., Linux)
 
+
+
+
+
+
+
+
+
 ## Usage
 
-Make sure LocalTunnel is installed and accessible from the terminal.
+- Make sure LocalTunnel is installed and accessible from the terminal.
 
-Run either script using:
+- Run either script using:
 
 ```bash
 python3 immortal.py
 
 sudo python3 immortal.py
+
+
+
+
+
